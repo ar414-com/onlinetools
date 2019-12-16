@@ -28,3 +28,4 @@
 * [PhpSelenium文档](https://www.kancloud.cn/wangking/selenium/234398#2Selenium_Server_12)
 * [Redis SETNX并发锁](https://blog.huoding.com/2015/09/14/463)
 * [PHP注释语法规范与命名规范示例](https://juejin.im/post/5aa77048518825556e5dc058)
+* [Swoole Tcp Rpc 踩坑实践](https://www.jishuwen.com/d/2J7x)

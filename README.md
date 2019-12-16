@@ -21,3 +21,6 @@
 
 #### 效率工具 （Efficiency tools）
 * http://blog.luckly-mjw.cn/tool-show/index.html
+
+#### PHP
+* [scripts](https://www.themeslide.com/category/php-scripts/)

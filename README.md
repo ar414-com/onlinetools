@@ -26,3 +26,4 @@
 * [scripts](https://www.themeslide.com/category/php-scripts/)
 * [一些常用的 PHP 类库, 资源以及技巧](https://juejin.im/entry/59018f33da2f60005de684a3)
 * [PhpSelenium文档](https://www.kancloud.cn/wangking/selenium/234398#2Selenium_Server_12)
+* [Redis SETNX并发锁](https://blog.huoding.com/2015/09/14/463)
